@@ -6,3 +6,4 @@ db.sqlite
 /static
 .DS_Store
 venv
+/venv
